@@ -79,7 +79,7 @@
   /* body styles */
   body::after {
     content: '';
-    background-image: url(../images/background_2.jpg);
+    background-image: url("https://thumbs.dreamstime.com/b/chicago-city-smoke-flag-illinois-state-united-states-america-chicago-city-smoke-flag-illinois-state-united-states-americ-129731110.jpg");
     background-size: cover;
     opacity: 1;
     top: 0;
@@ -146,14 +146,14 @@
     box-shadow: 0 1rem 2rem black;
   }
   .html-css {
-    background-image: url('../images/work_html-css_85.jpg');
+    background-image: url('../images/9f14c698315c3f88accb403ca20e5618.webp');
   }
   .proj {
-    background-image: url('../images/work_mernstack.jpg');
+    background-image: url('../images/buildings-1804479__340.jpeg');
     text-align: center;
   }
   .javascript {
-  background-image: url('../images/work_javascript_85.jpg');
+  background-image: url('../images/chicago-us-banner-dp-min.png');
   }
   .project {
     margin: 0 auto;
